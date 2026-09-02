@@ -1,6 +1,6 @@
 image: mapa_limpio.pgm
 mode: trinary
-resolution: 0.060
+resolution: 0.050
 origin: [-8.912, -9.114, 0]
 negate: 0
 occupied_thresh: 0.65
